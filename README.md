@@ -23,4 +23,4 @@ Tudo isso garante uma divisão justa ao final de cada sessão, sem quebrar o rit
 | 🔌 **Fiação & Diversos** | Fios finos e adesivos | - | Conexões internas e legendas dos botões |
 
 
-//Não assuste ter acabado oprojeto está em desenolvimento ( :
+// Não assuste ter acabado aqui, o projeto está em desenvolvimento ( :
