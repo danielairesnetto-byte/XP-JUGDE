@@ -21,3 +21,6 @@ Tudo isso garante uma divisão justa ao final de cada sessão, sem quebrar o rit
 | 🔔 **Áudio** | Buzzer Passivo 5V | 1 | Feedback sonoro para teclas e notificações |
 | 🔘 **Chave Geral** | Mini Chave Gangorra | 1 | Interruptor principal Liga/Desliga |
 | 🔌 **Fiação & Diversos** | Fios finos e adesivos | - | Conexões internas e legendas dos botões |
+
+
+//Não assuste ter acabado oprojeto está em desenolvimento ( :
