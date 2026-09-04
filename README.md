@@ -10,7 +10,7 @@ Tudo isso garante uma divisão justa ao final de cada sessão, sem quebrar o rit
 
 | Componente | Especificação / Modelo | Qtd. | Descrição / Função |
 | :--- | :--- | :---: | :--- |
-| 🧠 **Microcontrolador** | ESP32 DevKit v2 (30 pinos) | 1 | Processamento principal do sistema |
+| 🧠 **Microcontrolador** | ESP32 DevKit v1 (30 pinos) | 1 | Processamento principal do sistema |
 | 📺 **Display** | OLED 0.96" I2C (128x64) | 1 | Interface visual via comunicação SDA/SCL |
 | 📦 **Gabinete** | Patola PB-108/2 (116x74x25mm) | 1 | Case plástico com furos feitos a broca |
 | 🗂️ **Placa Base** | Perfboard Ilhada (7x9 cm) | 1 | PCB(Placa de Circuito Impresso) |
