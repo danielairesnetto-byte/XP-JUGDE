@@ -15,7 +15,8 @@ Tudo isso garante uma divisão justa ao final de cada sessão, sem quebrar o rit
 | 🎮 **Navegação** | Módulo Joystick Analógico | 1 | Controle de menu e navegação adicional |
 | 🔘 **Teclado** | Tactile Switches 12x12mm com Capa | 16 cada | Botões com capas padronizadas |
 | 🚨 **Sinalização Visual** | LEDs 5mm (Verde = ON / Azul = Mute) | 2 | Indicadores luminosos do estado do sistema |
-| ⚡ **Resistores** | 220 Ω (1/4W) | 2 | Limitadores de corrente para os LEDs |
+| ⚡ **Resistores** | 220 Ω (2x) / 1k Ω (1x) (1/4W) | 3 | Limitadores para os LEDs e base do transistor |
+| 🔌 **Transistor** | 2N2222 (NPN) | 1 | Driver para acionamento do buzzer em 5V |
 | 🔔 **Áudio** | Buzzer Passivo 5V | 1 | Feedback sonoro para teclas e notificações |
 | 🔋 **Bateria** | Li-Ion 18650 (3.7V / 1200mAh) | 1 | Fonte de alimentação recarregável |
 | 🔌 **Carregador** | Módulo TP4056 com Proteção (Type-C) | 1 | Módulo de carga via conexão Type-C |
