@@ -8,14 +8,14 @@ Tudo isso garante uma divisão justa ao final de cada sessão, sem quebrar o rit
 
 ## 🛠️ Lista de Materiais (Bill of Materials - BOM)
 
-| Componente | Especificação / Modelo | Qtd. | Descrição / Função |
+| Componente | Especificação / Modelo | Total | Descrição / Função |
 | :--- | :--- | :---: | :--- |
 | 🧠 **Microcontrolador** | ESP32 DevKit v1 | 1 | Processamento principal do sistema |
 | 📺 **Display** | OLED 0.96" I2C (128x64) | 1 | Interface visual via comunicação SDA/SCL |
 | 🎮 **Navegação** | Módulo Joystick Analógico | 1 | Controle de menu e navegação adicional |
 | 🔘 **Teclado** | Tactile Switches 12x12mm com Capa | 16 cada | Botões com capas padronizadas |
 | 🚨 **Sinalização Visual** | LEDs 5mm (Verde = ON / Azul = Mute) | 2 | Indicadores luminosos do estado do sistema |
-| ⚡ **Resistores** | 220 Ω (2x) & 1k Ω (1X)| 3 | Limitadores para os LEDs e base do transistor |
+| ⚡ Resistores | 220 Ω (2x), 1k Ω (1X) & 10k Ω (2x) | 5 | Limitadores para LEDs, base do transistor e pull-up/pull-down |
 | 🔌 **Transistor** | 2N2222 (NPN) | 1 | Driver para acionamento do buzzer em 5V |
 | 🔔 **Áudio** | Buzzer Passivo 5V | 1 | Feedback sonoro para teclas e notificações |
 | 🔋 **Bateria** | Li-Ion 18650 (3.7V / 1200mAh) | 1 | Fonte de alimentação recarregável |
